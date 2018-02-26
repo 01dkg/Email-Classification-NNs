@@ -1,3 +1,5 @@
+# Test Results of the Model 
+
 run_once(num_words=5500,dropout=0.5,num_hidden=100, extra_layers=0,plot=True,verbose=True,select_best=5000)
 Test score: 0.731364341577
 Test accuracy: 0.816666678588
