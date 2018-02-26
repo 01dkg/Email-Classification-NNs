@@ -23,3 +23,5 @@ Origin:	ARXIV
 Keywords:	Computer Science - Learning, Computer Science - Information Retrieval, 92B20, K.3
 Comment:	9 Pages, 6 figures, 2 Tables
 Bibliographic Code:	2018arXiv180203971G
+
+Gupta, D.K. and Goyal, S., 2018. Email Classification into Relevant Category Using Neural Networks. arXiv preprint arXiv:1802.03971.
